@@ -7,10 +7,10 @@ function Navbar(){
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="collapse navbar-collapse d-flex justify-content-between" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active d-flex justify-content-between">
-                        <a class="nav-link text-light" href="#">Home <span class="sr-only">(current)</span></a>
+                    <li class="nav-item active">
+                        <a class="nav-link text-light" href="#">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-light" href="#">About</a>
