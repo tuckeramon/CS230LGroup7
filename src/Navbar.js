@@ -10,7 +10,7 @@ function Navbar(){
             <div class="collapse navbar-collapse d-flex justify-content-between mx-3" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link text-light" href="#">Home</a>
+                        <a class="nav-link text-light" href="#"><strong>Home</strong></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-light" href="#">About</a>
