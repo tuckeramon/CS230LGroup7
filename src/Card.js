@@ -1,7 +1,7 @@
 function Card(){
 
     return(
-        <div class="card-deck">
+        <div class="row">
         <div class="card text-white bg-primary">
             <div class="card-header">
                 <h2 class="card-title">Card 01</h2>
