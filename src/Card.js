@@ -1,7 +1,7 @@
 function Card(){
 
     return(
-        <div class="row">
+        <div class="row text-center">
             <div class="col-sm-3">
                 <div class="card text-white bg-primary">
                     <div class="card-header">
