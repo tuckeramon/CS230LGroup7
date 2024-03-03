@@ -1,7 +1,7 @@
 function Navbar(){
 
     return(
-        <nav class="navbar navbar-expand-lg navbar-darl bg-dark col-sm-12">
+        <nav class="navbar navbar-expand-lg navbar-darl bg-dark col-sm-12 d-flex justify-content-center">
             <a class="navbar-brand text-light" href="#">Navbar</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
