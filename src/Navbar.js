@@ -7,7 +7,7 @@ function Navbar(){
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="collapse navbar-collapse d-flex justify-content-between m-x-3" id="navbarSupportedContent">
+            <div class="collapse navbar-collapse d-flex justify-content-between mx-3" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
                         <a class="nav-link text-light" href="#">Home</a>
@@ -20,8 +20,8 @@ function Navbar(){
                     </li>
                 </ul>
                 <form class="form-inline">
-                    <input class="form-control mr-sm-2 d-inline" type="search" placeholder="Search" aria-label="Search" />
-                    <button class="btn btn-outline-success my-2 my-sm-0 d-inline" type="submit">Search</button>
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
                 </form>
             </div>
         </nav>
